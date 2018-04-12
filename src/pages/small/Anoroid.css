@@ -1,0 +1,92 @@
+.A-header {
+    height: 45px;
+    line-height: 45px;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+    position: relative;
+}
+.A-header .left_A {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 40px;
+}
+.A-header .left_A .corner_A {
+    width:45px;
+    height:45px;
+    display: block;
+    font-size: 16px;
+    margin-left:10px ;
+}
+.A-header .left_A .corner_A a{
+	color: white;
+}
+
+.info_A{
+	background: url(https://static.lagou.com/images/mobile/asset/common/img/back-info.jpg) repeat;
+    background-size: 320px 125px;
+    height: 125px;
+    color: #00b38a;
+    font-size: 1.9rem;
+    text-align: center;
+    border-bottom: 1px solid #e8e8e8;
+}
+.info_A .text_A {
+    display: inline-block;
+    position: relative;
+    height: 25px;
+    top: 50px;
+}
+
+ .rinputer {
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #e8e8e8;
+    position: relative;
+    margin-right: 60px;
+    padding-right: 45px;
+}
+.inputer {
+    display: block;
+    margin-left: 23px;
+    font-size: 1.5rem;
+    width: 100%;
+    height: 46px;
+    border: none;
+}
+ .button {
+    position: absolute;
+    top: 0;
+    right: -61px;
+    width: 60px;
+    border-left: 1px solid #e8e8e8;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #c2cfcc;
+    border-bottom: 1px solid #e8e8e8;
+}
+.predata {
+	padding: 0;
+	margin-left: 15px;
+  }
+.predata .item_A {
+    height: 44px;
+    line-height: 44px;
+    color: #666;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 15px 0 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.itemed_A{
+	color: black;
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}

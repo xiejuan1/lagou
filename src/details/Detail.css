@@ -1,0 +1,100 @@
+.head{
+	height: 45px;
+    line-height: 45px;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.back{
+	color: white;
+	font-size:1.2rem;
+	height: 45px;
+    line-height: 48px;
+}
+.content{
+	overflow: auto;
+}
+.pages{
+	color: white;
+	font-size:1.2rem;
+	height: 45px;
+    line-height: 48px;
+}
+
+ .positile{
+	height: 48px;
+    line-height: 48px;
+    padding: 0 15px;
+    font-size: 20px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.xiangqing{
+	border-bottom: 1px solid #e8e8e8;
+    min-height: 60px;
+    
+}
+b{
+	width: 33.3%;
+	height: 20px;
+	float: left;
+	margin-top: 5px;
+	text-align: center;
+	line-height: 20px;
+	font-weight: normal;
+}
+
+.company{
+	border-bottom: 1px solid #e8e8e8;
+    min-height:93px;
+    padding-left: 15px;
+}
+
+.img{
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+.right{
+	float: left;
+}
+.right .companyName{
+	color: #00b38a;
+    font-size: 1.8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.miaoshu{
+    height: 36px;
+    line-height: 36px;
+    padding-left: 15px;
+    color: #00b38a;
+    font-size: 1.4rem;
+    background-color: #d2f9f0;
+}
+
+.send{
+	width: 90%;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.6rem;
+    text-align: center;
+    position: fixed;
+    bottom: 3%;
+    height:30px;
+    border-radius: 3px;
+    border: none;
+    margin-left: 5%;
+}
+
+.renzhi{
+	word-break: break-all;
+    padding: 15px;
+    color: #555;
+    font-size: 1.2rem;
+    line-height: 22px;
+}

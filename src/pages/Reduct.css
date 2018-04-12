@@ -1,0 +1,70 @@
+.header {
+    height: 45px;
+    line-height: 45px;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+    position: relative;
+}
+.header .left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 40px;
+}
+.header .left .corner {
+    width:45px;
+    height:45px;
+    display: block;
+    font-size: 16px;
+    margin-left:10px ;
+}
+.header .left .corner a{
+	color: white;
+}
+
+
+
+
+.custom-info{
+	padding: 20px;
+}
+
+
+.item{
+	list-style: none;
+}
+.cust{
+	display: block;
+    color: #ccc;
+    font-size: 1.2rem;
+}
+.desc{
+	display: block;
+    margin: 10px 0 20px 0;
+    text-align: center;
+    height: 62.5px;
+    line-height: 62.5px;
+    color: #333;
+    font-size: 1.5rem;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 10px;
+}
+.sousuo{
+	height: 45px;
+    line-height: 45px;
+    color: #fff;
+    background-color: #00b38a;
+    font-size: 1.6rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

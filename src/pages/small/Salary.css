@@ -1,0 +1,14 @@
+.list {
+    margin-left: 15px;
+}
+.list .item {
+    height: 44px;
+    line-height: 44px;
+    color: #666;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 15px 0 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

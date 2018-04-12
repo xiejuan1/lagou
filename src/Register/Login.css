@@ -1,0 +1,61 @@
+.container {
+    width: 28rem;
+    height: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    max-width: 750px;
+    padding: .83rem;
+    margin: 0 auto;
+}
+.form-header {
+    position: relative;
+    line-height: 1.69rem;   
+}
+
+.lagou{
+	display: block;
+	color: #333;
+    font-size: 1.51rem;
+    font-weight: 400;
+    margin: .13rem 0 1.07rem;
+}
+.form-header .border_link{
+	position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.4rem;
+    color: #00b38a;
+}
+
+.body_login{
+	
+	height: 11rem;
+	margin-top: 5.82rem;
+}
+.body_login .phone{
+	width: 99%;
+	height: 3rem;
+	border: 0;
+    border-bottom: 1px solid #E8E9EB;
+}
+.body_login .username{
+	width: 99%;
+	height: 3rem;
+	border: 0;
+    border-bottom: 1px solid #E8E9EB;
+}
+.body_login .pwd{
+	width: 99%;
+	height: 3rem;
+	border: 0;
+    border-bottom: 1px solid #E8E9EB;
+}
+.login{
+	width: 99%;
+	 height: 3.17rem;
+    border-radius: 3px;
+    background-color: #00b38a;
+    color: #fff;
+    font-size: 1.45rem;
+    border: 0;
+}

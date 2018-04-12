@@ -1,0 +1,86 @@
+.inpulter{
+	position: relative;
+    border-bottom: 1px solid #e8e8e8;
+    height: 45px;
+}
+
+.city{
+	float: left;
+ 	display:block;
+    height: 45px;
+    line-height: 45px;
+    font-size: 1.5rem;
+    text-align: center;
+    width:25%;
+    outline: none;
+    color: black;
+    background: white;
+    border: none;
+    border-right: 1px solid #e8e8e8;
+}
+
+
+
+.input{
+	display: block;
+    border: none;
+    height:45px;
+    line-height: 25px;
+    color: #333333;
+    outline: none;
+	float: left;
+    width:54%;
+    padding-left: 3%;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    float: left;
+    }    
+    
+
+
+.searched{
+ 	display:block;
+    width:20%;
+    float: left;
+    height: 44px;
+    line-height: 45px;
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    background: white;
+    border: none;
+    position: relative;
+ } 
+ 
+ .find{
+ 	border: none;
+ 	background: white;
+    width: 20%;
+    height: 45px;
+    line-height: 45px;
+    float: right;
+    text-align: center;
+    font-size: 1.5rem;
+    background: white;
+    border: none;
+    position: relative;
+ } 
+ 
+.ules{
+	width: 100%;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+} 
+ .lis{
+ 	width: 100%;
+ 	height: 45px;
+ 	background-color: #fafafa;
+    color: #666666;
+    font-size:1.2rem;
+    border-bottom: 1px solid #e8e8e8;
+ 	list-style: none;
+ 	padding-left: 10%;
+ 	padding-top: 12px;
+ 	box-sizing: border-box;
+ } 

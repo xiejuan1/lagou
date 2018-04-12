@@ -1,0 +1,33 @@
+shift + 右键 打开命令
+
+全局安装 npm i -g create-react-app
+
+在当前文件命令中
+
+安装 create-react-app + 项目名称 eg.create-react-app project
+
+cd project
+
+npm start 自动打开网页
+
+
+安装路由插件
+
+npm i react-router-dom
+
+发起异步请求安装
+
+npm i axios --save-dev
+
+安装mockjs,可以让js文件像json一样执行
+
+npm i --save mockjs
+
+
+
+配置代理
+
+在  package.json文件中加上 "proxy":"http://localhost:8848"
+
+
+把主键抽离 npm i --save-dev react-loadable
